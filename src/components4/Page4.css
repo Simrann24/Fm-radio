@@ -1,0 +1,188 @@
+#Page4{
+    height: 82vh;
+    max-width: 100vw;
+    overflow: hidden;
+    position: relative;
+}
+
+#cont1{
+    position: relative;
+    left:100px;
+    top:-10px;
+}
+
+
+#cont1 img{
+    border-radius: 1rem;
+}
+
+#txt4{
+    position: absolute;
+    top:42px;
+    left:45px;
+}
+
+#txt4 p{
+    position: relative;
+    top:10px;
+}
+
+#txt4 img{
+    position: relative;
+    top:5px;
+    left:-3px;
+}
+#btn4{
+    position: relative;
+
+    width:90px;
+    height: 30px;
+    background-color:rgba(51, 159, 206, 255);
+    border-radius: 1rem; 
+    left:240px;
+    top:-20px;
+}
+
+#txt5{
+    position: absolute;
+    top:180px;
+    left:45px;
+}
+
+#txt5 p{
+    position: relative;
+    top:10px;
+}
+
+#txt5 img{
+    position: relative;
+    top:5px;
+    left:-3px;
+}
+
+#txt6{
+    position: absolute;
+    top:320px;
+    left:45px;
+}
+
+#txt6 p{
+    position: relative;
+    top:10px;
+}
+
+#txt6 img{
+    position: relative;
+    top:5px;
+    left:-3px;
+}
+
+#vi{
+    position: absolute;
+
+    top:441px;
+    left:315px;
+}
+
+#vi h3{
+    color: rgba(51, 159, 206, 255);
+    font-weight:900;
+}
+
+#cont2{
+    position: absolute;
+    top:78px;
+    height: 487px;
+    width:410px;
+    background-color: rgba(243,243,243,255);
+    border-radius: 1rem;
+    left:600px;
+}
+
+#cnt{
+    position: relative;
+
+    width:340px;
+    top:40px;
+    height: 50px;
+    background-color: white;
+    left:30px;
+    border-radius: 1rem;
+}
+
+#cnt h2{
+    color: rgba(51, 159, 206, 255);
+    font-size: 20px;
+    position: relative;
+    top:13px;
+    left:30px;
+}
+
+#tt{
+    position: relative;
+    left:100px;
+    color: rgba(51, 159, 206, 255);
+
+}
+
+#tt h1{
+
+    font-size: 22px;
+    position: absolute;
+    top:7px;
+    left:40px;
+}
+
+#ttt{
+    position: relative;
+    top:-40px;
+    left:610px;
+    color: rgba(51, 159, 206, 255);
+
+}
+
+#ttt h1{
+
+    font-size: 22px;
+    position: absolute;
+    top:7px;
+    left:40px;
+}
+
+#sss{
+    position: relative;
+    top:80px;
+    left:50px;
+}
+#hh{
+    position: relative;
+    left:8px;
+    font-size: larger;
+
+}
+
+#jj{
+    position: relative;
+    top:130px;
+    left:160px;
+}
+
+#jj button{
+    width: 110px;
+    height: 35px;
+    background-color: rgba(51, 159, 206, 255);
+    border-radius: 1rem;
+}
+
+
+#footer{
+    width: 100vw;
+    height: 100px;
+    position: relative;
+    top:-40px;
+    background-color: rgba(51, 159, 206, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+}

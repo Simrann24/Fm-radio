@@ -1,0 +1,33 @@
+
+.card{
+    position: absolute;
+    top:140vh;
+    left: 90px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 80px;
+}
+
+#p3t{
+    font-size:15px;
+}
+
+.card2 img{
+    height: 135px;
+    width: 250px;
+}
+
+#btn{
+    height: 30px;
+    width:90px;
+    background-color: rgba(51, 159, 206, 255);
+    border-radius: 1rem;
+    position: relative;
+    top:15px;
+    left: 82px;
+}
+
+#p3t{
+    position: relative;
+    top:5px;
+}
